@@ -1,5 +1,4 @@
 | Bem-vindo(a) ao meu perfil :)
-
  <div>
    <a href="https://github.com/https://avictoriajs7">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avictoriajs7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
